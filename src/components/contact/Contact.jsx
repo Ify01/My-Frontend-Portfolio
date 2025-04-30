@@ -32,7 +32,7 @@ const Contact = () => {
 
               <h3 className="contact-card-title">Gmail</h3>
               <span className="contact-card-data">
-                ifeanyiezeuguw0@gmail.com
+                ifeanyiezeugwu0@gmail.com
               </span>
 
               <a
